@@ -1,32 +1,111 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Igor%20Boruch&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Web%20Apps%20%7C%20JavaScript%20Ecosystem&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Igor%20Boruch&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&desc=Full-Stack%20TypeScript%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20Node.js%20%7C%20Scalable%20SaaS%20Systems&descAlign=50&descAlignY=60" />
 </p>
 
-<h2 align="center">Full-Stack Developer | Real-Time Web Apps | JavaScript Ecosystem</h2>
+<h2 align="center">Full-Stack TypeScript Engineer | React & Next.js | Node.js | Scalable SaaS Systems</h2>
 
 <p align="center">
-  I build practical, user-focused web applications with an emphasis on <b>real-time collaboration</b>, <b>clean product flows</b>, and <b>full-stack JavaScript development</b>.
+  I build and maintain production web applications across the full stack — from user-facing interfaces and backend APIs to integrations, monitoring, CI/CD and production support.
+</p>
+
+<p align="center">
+  <a href="mailto:boruchigor@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/igor-boruch-14a53a150/">LinkedIn</a> •
+  <a href="https://github.com/iboruch">GitHub</a>
 </p>
 
 ---
 
 ## About Me
 
-I am a full-stack developer with hands-on experience building and deploying modern web applications using:
+I am a Full-Stack TypeScript Engineer with nearly 5 years of commercial experience building and maintaining production SaaS applications.
+
+At CleverPush, I work across the full product stack, including:
+
+- React-based user interfaces
+- Next.js migration work
+- Backend services and REST APIs
+- High-volume notification systems
+- API integrations with external platforms
+- Redis-based and asynchronous processing flows
+- Docker-based workflows and CI/CD YAML configuration
+- Production monitoring and debugging with Rancher and Kibana
+- Internal tools and developer workflow improvements
+
+I enjoy working on systems where frontend, backend, infrastructure and product requirements meet. I care about clean implementation, maintainability, reliability and building features that are useful in real production environments.
+
+---
+
+## Technical Toolkit
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,mongodb,redis,docker,html,css,git,github,linux" />
 </p>
 
-I enjoy turning ideas into working products — especially applications that help people collaborate, make decisions, and interact in real time.
+### Frontend
 
-Although my public GitHub is still growing, it already reflects experience across the full development lifecycle:
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-- Building responsive frontend interfaces with React
-- Developing backend APIs with Node.js and Express
-- Designing data models with MongoDB and Mongoose
-- Adding real-time functionality with Socket.IO
-- Deploying and maintaining production-ready applications
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
+
+### Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-black?style=for-the-badge)
+
+### DevOps, Monitoring & Tools
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge)
+![YAML](https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=yaml)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Rancher](https://img.shields.io/badge/Rancher-black?style=for-the-badge&logo=rancher)
+![Kibana](https://img.shields.io/badge/Kibana-black?style=for-the-badge&logo=kibana)
+
+---
+
+## What I Work With
+
+### Full-Stack Product Development
+
+- Building customer-facing product features
+- Creating React and Next.js-based UI flows
+- Developing backend services and REST APIs
+- Connecting frontend functionality with backend business logic
+- Working with product and account teams to turn requirements into technical solutions
+
+### Scalable Systems & Integrations
+
+- High-volume SaaS systems
+- API integrations with external platforms
+- Asynchronous processing
+- Redis-based workflows
+- WebSockets and real-time flows
+- Production debugging across frontend, backend, caching and data layers
+
+### Engineering Quality
+
+- Code reviews
+- Technical decision-making
+- Code quality and maintainability
+- Technical debt reduction
+- Developer workflow improvements
+- Docker-based workflows
+- CI/CD YAML configuration
+- Production monitoring with Rancher and Kibana
 
 ---
 
@@ -50,6 +129,7 @@ Although my public GitHub is still growing, it already reflects experience acros
 A real-time collaborative voting application designed to help groups make decisions quickly and interactively.
 
 ### Highlights
+
 - Join and manage shared voting sessions
 - Track participants live as they enter a room
 - Submit and update votes in real time
@@ -57,76 +137,56 @@ A real-time collaborative voting application designed to help groups make decisi
 - Reset and rerun sessions smoothly
 
 ### Tech Stack
+
 **Frontend:** React, React Router, Tailwind CSS  
 **Backend:** Node.js, Express  
 **Database:** MongoDB, Mongoose  
-**Realtime:** Socket.IO  
+**Real-time:** Socket.IO  
 **Deployment:** Vercel
 
-This project demonstrates my ability to build an interactive product across the full stack — from user interface to backend logic and live communication.
+This project demonstrates my ability to build an interactive product across the full stack — from user interface to backend logic, database design and live communication.
 
-### Project Preview
-> Replace the image link below with an actual screenshot or GIF of your app.
+<!-- 
+Add a real screenshot or GIF here when available.
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x500.png?text=Duck+and+Vote+Project+Preview" alt="Duck and Vote preview" />
+  <img src="YOUR_PROJECT_SCREENSHOT_OR_GIF_URL" alt="Duck and Vote preview" />
 </p>
+-->
 
 ---
 
 ## What I Bring
 
-- Strong full-stack mindset
-- Real-time application development experience
-- Comfortable across frontend, backend, APIs, and deployment
-- Practical problem-solving focused on shipping usable products
-- Interest in simple, useful, and scalable solutions
+- Full-stack ownership from requirements to production
+- Strong TypeScript, React, Next.js and Node.js experience
+- Practical experience with production SaaS systems
+- Backend API design and third-party integrations
+- Real-time and asynchronous processing experience
+- Docker, CI/CD and deployment workflow awareness
+- Production debugging and monitoring mindset
+- Code review, maintainability and technical debt awareness
 - Ability to connect technical implementation with product goals
-
----
-
-## Technical Toolkit
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose)
-
-### Tools
-![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
 ## What I'm Looking For
 
-I’m especially interested in roles involving:
+I am open to roles involving:
 
-- Full-stack web development
-- Frontend-focused product engineering
-- Real-time or collaborative applications
-- Startup or fast-moving product teams
+- Full-stack TypeScript development
+- React / Next.js product engineering
+- Node.js backend development
+- Scalable SaaS platforms
+- API integrations and real-time systems
+- Developer experience and internal platform work
+- Product-focused engineering teams
 
 ---
 
 ## Contact
 
-I’m open to connecting with recruiters, hiring managers, and engineering teams.
+I’m open to connecting with recruiters, hiring managers and engineering teams.
 
 - **GitHub:** [github.com/iboruch](https://github.com/iboruch)
 - **LinkedIn:** [linkedin.com/in/igor-boruch-14a53a150](https://www.linkedin.com/in/igor-boruch-14a53a150/)
@@ -134,4 +194,4 @@ I’m open to connecting with recruiters, hiring managers, and engineering teams
 
 ---
 
-⭐ _This profile README is designed to give future employers a quick view of my technical strengths, project work, and development focus._
+⭐ _This profile README is designed to give future employers a quick overview of my technical strengths, commercial experience and development focus._
