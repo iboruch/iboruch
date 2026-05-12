@@ -39,7 +39,7 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 ## Technical Toolkit
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,mongodb,redis,docker,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,angular,python,fastapi,mongodb,redis,docker,html,css,git,github,linux" />
 </p>
 
 ### Frontend
@@ -48,6 +48,7 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
@@ -55,6 +56,8 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
 
@@ -122,13 +125,53 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 
 ---
 
-## Featured Project
+## Featured Projects
 
-# Duck and Vote
+### Dashboardy
+
+Offline-capable productivity dashboard with Angular, FastAPI, OAuth integrations and PWA support.
+
+**Highlights**
+
+- Angular frontend with a structured dashboard shell
+- FastAPI backend with API endpoints and health checks
+- OAuth integration structure for Google, Spotify, Microsoft and Linear
+- PWA/offline-oriented architecture
+- Docker Compose setup for local development
+- Extended documentation, setup guide, contributing guide and security notes
+- Demo mode for running the application without real OAuth credentials
+
+**Tech Stack:** Angular, TypeScript, FastAPI, Python, OAuth, PWA, Docker
+
+[View repository](https://github.com/iboruch/dashboardy)
+
+---
+
+### portable-rate-limit
+
+A lightweight, dependency-free Node.js rate limiter designed for backend services and Express applications.
+
+**Highlights**
+
+- Portable `check()` API for use in any Node.js application
+- Express-style middleware
+- In-memory token bucket store
+- Standard HTTP 429 response handling
+- Rate limit headers such as `X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset` and `Retry-After`
+- Custom store interface for future Redis, database or shared-cache implementations
+- Unit tests for core limiter behavior
+
+**Tech Stack:** Node.js, JavaScript, Express-style middleware, token bucket algorithm, backend utility design
+
+[View repository](https://github.com/iboruch/portable-rate-limit)
+
+---
+
+### Duck and Vote
 
 A real-time collaborative voting application designed to help groups make decisions quickly and interactively.
 
-### Highlights
+**Highlights**
 
 - Join and manage shared voting sessions
 - Track participants live as they enter a room
@@ -136,17 +179,11 @@ A real-time collaborative voting application designed to help groups make decisi
 - Automatically calculate and display results
 - Reset and rerun sessions smoothly
 
-### Tech Stack
-
-**Frontend:** React, React Router, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, Mongoose  
-**Real-time:** Socket.IO  
-**Deployment:** Vercel
+**Tech Stack:** React, React Router, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, Vercel
 
 This project demonstrates my ability to build an interactive product across the full stack — from user interface to backend logic, database design and live communication.
 
-<!-- 
+<!--
 Add a real screenshot or GIF here when available.
 
 <p align="center">
