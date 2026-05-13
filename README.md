@@ -215,7 +215,7 @@ A real-time collaborative voting application designed to help groups make decisi
 
 This project demonstrates interactive full-stack product development — from user interface to backend logic, database design and live communication.
 
-[View repository](https://github.com/iboruch)
+[View repository](https://github.com/iboruch/duck-and-vote)
 
 ---
 
