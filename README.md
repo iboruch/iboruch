@@ -1,4 +1,6 @@
-<h1 align="center">Igor Boruch</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Igor%20Boruch&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&desc=Full-Stack%20TypeScript%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20Node.js%20%7C%20Scalable%20SaaS%20Systems&descAlign=50&descAlignY=60" />
+</p>
 
 <h2 align="center">Full-Stack TypeScript Engineer | React & Next.js | Node.js | Scalable SaaS Systems</h2>
 
@@ -10,13 +12,6 @@
   <a href="mailto:boruchigor@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/igor-boruch-14a53a150/">LinkedIn</a> •
   <a href="https://github.com/iboruch">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Engineer-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20%26%20Next.js-Product%20Engineering-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend%20APIs-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20%26%20CI%2FCD-DevOps%20Aware-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -79,7 +74,7 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 ![YAML](https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=yaml)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Rancher](https://img.shields.io/badge/Rancher-black?style=for-the-badge&logo=rancher)
 ![Kibana](https://img.shields.io/badge/Kibana-black?style=for-the-badge&logo=kibana)
 
@@ -132,53 +127,6 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 
 ## Featured Projects
 
-### live-match-tracker
-
-Production-style full-stack demo for real-time sports match tracking, live score updates, admin workflows and embeddable match widgets.
-
-**Highlights**
-
-- Next.js frontend with TypeScript and Tailwind CSS
-- Express backend with REST API and Socket.IO real-time updates
-- MongoDB persistence with Mongoose models
-- Admin flow for creating matches, starting/finishing matches and adding events
-- Public match detail view with live timeline updates
-- Embeddable widget route for compact live score display
-- Zod validation for API input handling
-- Docker Compose setup for local development
-- GitHub Actions CI workflow
-- Seed data and screenshots for fast project review
-- Technical discussion points covering WebSocket rooms, REST/WebSocket separation, service-layer scoring logic and production scaling considerations
-
-**Tech Stack:** Next.js, React, TypeScript, Node.js, Express, Socket.IO, MongoDB, Mongoose, Zod, Docker, GitHub Actions
-
-[View repository](https://github.com/iboruch/live-match-tracker)
-
----
-
-### portable-rate-limit
-
-A lightweight Node.js token-bucket rate limiter designed for backend services, Express applications and multi-instance deployments.
-
-**Highlights**
-
-- Portable `check()` API for any Node.js application
-- Express-style middleware
-- In-memory token bucket store for single-process apps
-- Atomic Redis-backed store for distributed deployments
-- TypeScript definitions through `index.d.ts`
-- Standard rate limit headers
-- Custom store interface for other persistence backends
-- Support for weighted requests through `cost`
-- Test suite running on Node.js 18, 20 and 22
-- GitHub Actions CI workflow
-
-**Tech Stack:** Node.js, JavaScript, Express-style middleware, Redis, token bucket algorithm, TypeScript definitions, backend utility design
-
-[View repository](https://github.com/iboruch/portable-rate-limit)
-
----
-
 ### Dashboardy
 
 Offline-capable productivity dashboard with Angular, FastAPI, OAuth integrations and PWA support.
@@ -199,6 +147,26 @@ Offline-capable productivity dashboard with Angular, FastAPI, OAuth integrations
 
 ---
 
+### portable-rate-limit
+
+A lightweight, dependency-free Node.js rate limiter designed for backend services and Express applications.
+
+**Highlights**
+
+- Portable `check()` API for use in any Node.js application
+- Express-style middleware
+- In-memory token bucket store
+- Standard HTTP 429 response handling
+- Rate limit headers such as `X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset` and `Retry-After`
+- Custom store interface for future Redis, database or shared-cache implementations
+- Unit tests for core limiter behavior
+
+**Tech Stack:** Node.js, JavaScript, Express-style middleware, token bucket algorithm, backend utility design
+
+[View repository](https://github.com/iboruch/portable-rate-limit)
+
+---
+
 ### Duck and Vote
 
 A real-time collaborative voting application designed to help groups make decisions quickly and interactively.
@@ -213,9 +181,15 @@ A real-time collaborative voting application designed to help groups make decisi
 
 **Tech Stack:** React, React Router, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, Vercel
 
-This project demonstrates interactive full-stack product development — from user interface to backend logic, database design and live communication.
+This project demonstrates my ability to build an interactive product across the full stack — from user interface to backend logic, database design and live communication.
 
-[View repository](https://github.com/iboruch)
+<!--
+Add a real screenshot or GIF here when available.
+
+<p align="center">
+  <img src="YOUR_PROJECT_SCREENSHOT_OR_GIF_URL" alt="Duck and Vote preview" />
+</p>
+-->
 
 ---
 
@@ -258,3 +232,6 @@ I’m open to connecting with recruiters, hiring managers and engineering teams.
 ---
 
 ⭐ _This profile README is designed to give future employers a quick overview of my technical strengths, commercial experience and development focus._
+
+
+obraz na gorze nie dziala tak btw, doesn't exist
