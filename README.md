@@ -36,8 +36,11 @@ At CleverPush, I work across the full product stack, including:
 - Docker-based workflows and CI/CD YAML configuration
 - Production monitoring and debugging with Rancher and Kibana
 - Internal tools and developer workflow improvements
+- AI-assisted development workflows with Cursor, Claude Code and Codex for code exploration, refactoring, documentation and review preparation
 
 I enjoy working on systems where frontend, backend, infrastructure and product requirements meet. I care about clean implementation, maintainability, reliability and building features that are useful in real production environments.
+
+I use AI-assisted development tools to speed up codebase exploration, refactoring, documentation and test planning while keeping final technical decisions under developer review.
 
 ---
 
@@ -114,6 +117,7 @@ I enjoy working on systems where frontend, backend, infrastructure and product r
 - Docker-based workflows
 - CI/CD YAML configuration
 - Production monitoring with Rancher and Kibana
+- AI-assisted codebase exploration, refactoring, documentation and review preparation
 
 ---
 
@@ -229,6 +233,7 @@ This project demonstrates interactive full-stack product development — from us
 - Docker, CI/CD and deployment workflow awareness
 - Production debugging and monitoring mindset
 - Code review, maintainability and technical debt awareness
+- AI-assisted development workflows for refactoring, documentation, testing and review preparation
 - Ability to connect technical implementation with product goals
 
 ---
